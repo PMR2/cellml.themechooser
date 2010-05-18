@@ -1,3 +1,4 @@
+MANIFEST.in
 README.txt
 setup.cfg
 setup.py
@@ -8,6 +9,9 @@ cellml.themechooser.egg-info/dependency_links.txt
 cellml.themechooser.egg-info/entry_points.txt
 cellml.themechooser.egg-info/namespace_packages.txt
 cellml.themechooser.egg-info/not-zip-safe
+cellml.themechooser.egg-info/paster_plugins.txt
 cellml.themechooser.egg-info/requires.txt
 cellml.themechooser.egg-info/top_level.txt
 cellml/themechooser/__init__.py
+cellml/themechooser/configure.zcml
+cellml/themechooser/subscriber.py

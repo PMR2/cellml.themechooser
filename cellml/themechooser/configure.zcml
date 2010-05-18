@@ -1,0 +1,20 @@
+<configure
+    xmlns="http://namespaces.zope.org/zope"
+    i18n_domain="cellml.theme">
+
+  <!-- 
+    This is tailored for the live PMR2 instance; it should not be 
+    included for it will do nothing.  See subscriber.py for why.
+
+    Do not include this configuration file if CellML Theme (or themes
+    based on it) is not the primary theme, as it may cause unintended
+    consequences.  
+  -->
+
+  <subscriber
+      for="plone.app.layout.navigation.interfaces.INavigationRoot
+      zope.app.publication.interfaces.IBeforeTraverseEvent"
+      handler=".subscriber.select_theme" 
+      />
+
+</configure>
