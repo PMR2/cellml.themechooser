@@ -1,7 +1,7 @@
 from Products.CMFCore.utils import getToolByName
 
 skins = {
-    'models.cellml.org': 'CellML Theme (CellML)',
+    'models.cellml.org': 'CellML Theme (models)',
     'models.physiomeproject.org': 'CellML Theme (PMR2)',
 }
 
