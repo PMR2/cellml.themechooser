@@ -14,10 +14,11 @@ Description: Introduction
         Changelog
         =========
         
-        trunk - Unreleased
-        ----------------
+        0.1 - Released (2010-06-21)
+        ---------------------------
         
-        * Initial release
+        * Added a dynamic skin chooser based on domain names used for the
+        official instance of PMR2.  Uses CellML Themes.
         
         
 Platform: UNKNOWN
