@@ -1,6 +1,6 @@
 Metadata-Version: 1.0
 Name: cellml.themechooser
-Version: 0.1
+Version: 0.1.1
 Summary: UNKNOWN
 Home-page: http://www.cellml.org/
 Author: Tommy Yu
@@ -13,6 +13,12 @@ Description: Introduction
         
         Changelog
         =========
+        
+        0.1.1 - Released (2010-04-11)
+        -----------------------------
+        
+        * Repackaging; no difference to 0.1.
+        
         
         0.1 - Released (2010-06-21)
         ---------------------------

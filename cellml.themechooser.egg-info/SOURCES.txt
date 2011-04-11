@@ -15,3 +15,4 @@ cellml.themechooser.egg-info/top_level.txt
 cellml/themechooser/__init__.py
 cellml/themechooser/configure.zcml
 cellml/themechooser/subscriber.py
+docs/HISTORY.txt
